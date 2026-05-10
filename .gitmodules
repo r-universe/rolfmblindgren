@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "shinyseo"]
 	path = shinyseo
-	url = https://github.com/cran/shinyseo
+	url = https://github.com/rolfmblindgren/shinyseo
